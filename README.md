@@ -3,7 +3,6 @@
 A fun and interactive **number-guessing terminal game** built with Python.  
 Challenge yourself by selecting from **three difficulty levels** and see how quickly you can guess the right number with smart hints on every attempt!
 
----
 
 ## 🎮 Features
 
@@ -13,7 +12,6 @@ Challenge yourself by selecting from **three difficulty levels** and see how qui
 - Tracks total number of attempts
 - Clean and user-friendly terminal experience
 
----
 
 ## 🚀 How to Run
 
@@ -23,14 +21,10 @@ Make sure you have Python installed.
 python number_guesser_game.py
 ```
 
----
-
-## 💡 Author
 
 Made with 🩷 by [Sweta](https://github.com/SwetaJaiswal9)  
 Feel free to fork, star ⭐ and contribute!
 
----
 
 ## 📄 License
 
