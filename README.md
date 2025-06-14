@@ -27,5 +27,9 @@ python number_guesser_game.py
 This project is licensed under the [MIT License](LICENSE).
 
 
-Made with 🩷 by [Sweta](https://github.com/SwetaJaiswal9)  
-Feel free to **fork**, ⭐ **star**, and **contribute**!
+---
+
+<p align="center">
+  Made with 🩷 by <a href="https://github.com/SwetaJaiswal9">Sweta</a> <br/>
+  ⭐ Star it, 🍴 fork it, or just enjoy playing it!
+</p>
