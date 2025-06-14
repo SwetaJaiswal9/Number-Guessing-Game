@@ -22,10 +22,10 @@ python number_guesser_game.py
 ```
 
 
-Made with 🩷 by [Sweta](https://github.com/SwetaJaiswal9)  
-Feel free to fork, star ⭐ and contribute!
-
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+Made with 🩷 by [Sweta](https://github.com/SwetaJaiswal9)  
+Feel free to **fork**, ⭐ **star**, and **contribute**!
