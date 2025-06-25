@@ -30,6 +30,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  Made with 🩷
+  Made with 🩷<br>
   ⭐ Star it, 🍴 fork it, or just enjoy playing it!
 </p>
