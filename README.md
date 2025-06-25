@@ -30,6 +30,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  Made with 🩷 by <a href="https://github.com/SwetaJaiswal9">Sweta</a> <br/>
+  Made with 🩷
   ⭐ Star it, 🍴 fork it, or just enjoy playing it!
 </p>
